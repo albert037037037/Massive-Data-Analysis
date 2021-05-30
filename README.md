@@ -18,3 +18,7 @@
     1. Shingling
     2. Minhashing
     3. Locality-Sensitive Hashing (LSH)
+
+## Term Project Recommendation System
+> Implement Item-item Collaborative Filtering
++ Similarity: cosine similarity with subtract mean
